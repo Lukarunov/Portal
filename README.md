@@ -57,9 +57,7 @@ h1 {
 
     <a class="button" href="https://t.me/c/1657157417/30">📄 Заявления</a>
     <a class="button" href="https://t.me/c/1657157417/6">📞 Служебные контакты</a>
-    <a class="btn" href="https://t.me/Runovluka?text=Прошу%20оформить%20путевой%20лист.%0AФИО:%0AГосномер:%0AТип:">
-🧾 Оформить путевой лист
-</a>
+    <a class="button" href="https://t.me/Runovluka?text=Прошу%20оформить%20путевой%20лист.%0AФИО:%0AГосномер:%0AТип:">🧾 Оформить путевой лист</a>
     <a class="button" href="https://t.me/c/1657157417/32">🤒 Не вышел / заболевание</a>
     <a class="button" href="https://t.me/c/1657157417/33">🗓 График работы</a>
     <a class="button" href="ССЫЛКА_НА_ИНФО">ℹ️ Важная информация</a>
