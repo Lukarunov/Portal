@@ -60,7 +60,7 @@ h1 {
     <a class="button" href="https://t.me/c/1657157417/32">🤒 Не вышел / заболевание</a>
     <a class="button" href="https://t.me/c/1657157417/33">🗓 График работы</a>
     <a class="button" href="ССЫЛКА_НА_ИНФО">ℹ️ Важная информация</a>
-<a href="https://t.me/Runovluka?text=Прошу%20оформить%20путевой%20лист.%0AФИО:%0AГосномер:%0AТип:" class="btn">
+    <a class="button" href="https://t.me/Runovluka?text=Прошу%20оформить%20путевой%20лист.%0AФИО:%0AГосномер:%0AТип:" class="btn">
 🧾 Нужен путевой лист
 </a>
     <div class="footer">
