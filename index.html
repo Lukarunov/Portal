@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Портал автотранспортного управления</title>
+    <div class="org-title">Автотранспортное управление</div>Портал автотранспортного управления</title>
 
     <!-- Адаптация под телефон -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,7 +11,13 @@
 * {
     box-sizing: border-box;
 }
-
+.org-title {
+    text-align: center;
+    font-size: 14px;
+    color: #334155;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
 body {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
@@ -51,9 +57,14 @@ h1 {
     font-size: 16px;
     font-weight: 500;
     text-align: center;
-    border: 1px solid #cbd5e1;
+    border: 1px solid #0f172a;
 }
-
+.button-important {
+    background-color: #e7f0ff;
+    border: 2px solid #2563eb;
+    color: #1e3a8a;
+    font-weight: 600;
+}
 .button:hover {
     background-color: #dbeafe;
 }
@@ -79,7 +90,9 @@ h1 {
     <a class="button" href="https://t.me/c/1657157417/30">
         📄 Заявления
     </a>
-
+<a class="button button-important" href="ССЫЛКА_НА_КАНАЛ_С_ДОКУМЕНТАМИ">
+    📌 Подписаться на канал с документами
+</a>
     <a class="button" href="https://t.me/c/1657157417/6">
         ☎️ Контакты
     </a>
